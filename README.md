@@ -30,6 +30,9 @@ Bill of Materials
 | 10KΩ Resistor      | Limit the power going to the DHT11.                                     |  1  | $3.35 | $3.35 | [AliExpress](https://www.aliexpress.com/item/1005004268846582.html?spm=a2g0o.productlist.main.11.7c462a0aVNMxSC&algo_pvid=5fe0ab05-7f95-40c5-b6f9-e457673b242f&algo_exp_id=5fe0ab05-7f95-40c5-b6f9-e457673b242f-40&pdp_ext_f=%7B%22order%22%3A%22228%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.48%210.48%21%21%210.48%210.48%21%402103849717917384362504889e0ecf%2112000028578601225%21sea%21GB%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad6cd2d24%3Bm03_new_user%3A-29895&curPageLogUid=vm2vWDKw8xaz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004268846582%7C_p_origin_prod%3A) |
 
 | PCB                | Connect everything and hold it together (Min. 5).                       |  5  | $0.80 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
+
 Subtotal - $17.90
+
 Taxes & Shipping - $9.28
+
 Total - $27.18
