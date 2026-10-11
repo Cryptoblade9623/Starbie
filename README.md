@@ -16,7 +16,7 @@ Instructions
 7. You can also add some small stickers onto the tips of the corners or on the back if you have them, but this is completely optional.
 And you're done!
 
-
+Bill of Materials
 | PART               | PURPOSE                                                                 | QTY | PRICE | TOTAL | VENDOR |
 
 | ESP32 C3 Supermini | Control the screen and take inputs from the other parts.                |  1  | $3.05 | $3.05 | [AliExpress](https://www.aliexpress.com/item/1005007869446657.html?spm=a2g0o.productlist.main.11.206e1bcdmjCEWO&algo_pvid=0b73490b-3db1-475a-b949-48b70c4bc669&algo_exp_id=0b73490b-3db1-475a-b949-48b70c4bc669-10&pdp_ext_f=%7B%22order%22%3A%22625%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.05%211.35%21%21%213.05%211.35%21%4021038a9c17917201267658074e0e1e%2112000042625562850%21sea%21GB%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad6cd2d24%3Bm03_new_user%3A-29895%3BpisId%3A5000000218643706&curPageLogUid=5fYpmBZWpQCx&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007869446657%7C_p_origin_prod%3A) |
@@ -29,16 +29,7 @@ And you're done!
 
 | 10KΩ Resistor      | Limit the power going to the DHT11.                                     |  1  | $3.35 | $3.35 | [AliExpress](https://www.aliexpress.com/item/1005004268846582.html?spm=a2g0o.productlist.main.11.7c462a0aVNMxSC&algo_pvid=5fe0ab05-7f95-40c5-b6f9-e457673b242f&algo_exp_id=5fe0ab05-7f95-40c5-b6f9-e457673b242f-40&pdp_ext_f=%7B%22order%22%3A%22228%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.48%210.48%21%21%210.48%210.48%21%402103849717917384362504889e0ecf%2112000028578601225%21sea%21GB%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad6cd2d24%3Bm03_new_user%3A-29895&curPageLogUid=vm2vWDKw8xaz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004268846582%7C_p_origin_prod%3A) |
 
-
-
-
-Part	What it's for	Qty	Unit	Total	Vendor
-ESP32 C3 Supermini	Control the screen and take inputs from the other parts.	1	$3.05	$3.05	AliExpress
-MPU6050	Measure when and how far the starbie moves, and the temperature.	1	$6.35	$6.35	AliExpress
-DHT11	Measures temperature and humidity.	1	$1.33	$1.33	AliExpress
-0.96" OLED Display	Show the user the character, special effects, humidity and temperature.	1	$2.69	$2.69	AliExpress
-10kΩ Resistor	Limit the power going to the DHT11.	1	$0.48	$0.48	AliExpress
-PCB	Connect everything and hold it together (Min. 5).	5	$0.80	$4.00	JLCPCB
-Parts subtotal	—	—	—	$17.90	—
-Tax & shipping	—	—	—	$9.28	—
-Total	—	—	—	$27.18	—
+| PCB                | Connect everything and hold it together (Min. 5).                       |  5  | $0.80 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
+Subtotal - $17.90
+Taxes & Shipping - $9.28
+Total - $27.18
