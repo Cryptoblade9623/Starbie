@@ -2,6 +2,7 @@
 Motion and button controlled pet with an OLED display, humidity and temperature sensor and motion sensor.
 It is controlled by an ESP32 C3 Supermini.
 This is a guide, by SharKing Studios from Half-Life.
+The files include the KiCad files, gerbers, drill fles, firmware - which you will have to put into a folder of the same name and then open in the Arduino IDE, footprints for the PCB editor and my personal sprite creation.
 <img width="579" height="613" alt="image" src="https://github.com/user-attachments/assets/d56fd7dd-5942-4371-8885-3f922458eafa" />
 <img width="1166" height="548" alt="image" src="https://github.com/user-attachments/assets/cd37cde7-6ccd-40a5-b8c6-01660a125d24" />
 <img width="788" height="832" alt="image" src="https://github.com/user-attachments/assets/f23978a5-991a-48a4-b627-c8c1127258c9" />
