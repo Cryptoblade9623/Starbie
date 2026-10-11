@@ -44,4 +44,4 @@ And you're done!
 
 | Taxes & Shipping - $9.28 |
 
-| Total - $27.18 |
+| Grand Total - $27.18 |
