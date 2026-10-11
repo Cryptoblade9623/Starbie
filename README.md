@@ -1,4 +1,4 @@
-* Starbie
+# Starbie
 Motion and button controlled pet with an OLED display, humidity and temperature sensor and motion sensor.
 It is controlled by an ESP32 C3 Supermini.
 This is a guide, by SharKing Studios from Half-Life.
