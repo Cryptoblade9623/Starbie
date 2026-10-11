@@ -18,6 +18,7 @@ The files include the KiCad files, gerbers, drill files, firmware - which you wi
 5. Solder the DHT11 in between the resistor and the OLED.
 6. Finally solder the ESP32 onto the right side of the board so that the USBC port just hangs off the egde.
 7. You can also add some small stickers onto the tips of the corners or on the back if you have them, but this is completely optional.
+
 And you're done!
 
 
