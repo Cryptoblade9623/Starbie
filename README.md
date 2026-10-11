@@ -18,8 +18,13 @@ And you're done!
 
 
 | PART               | PURPOSE                                                                 | QTY | PRICE | TOTAL | VENDOR |
+
 | ESP32 C3 Supermini | Control the screen and take inputs from the other parts.                |  1  | $3.05 | $3.05 | AliExpress |
+
 | MPU6050            | Measure when and how far the starbie moves, and the temperature.        |  1  | $6.35 | $6.35 | AliExpress |
+
 | DHT11              | Measures temperature and humidity.                                      |  1  | $1.33 | $1.33 | AliExpress |
+
 | 0.96" OLED Display | Show the user the character, special effects, humidity and temperature. |  1  | $2.69 | $2.69 | AliExpress |
+
 | 10KΩ Resistor      | Limit the power going to the DHT11.                                     |  1  | $3.35 | $3.35 | AliExpress |
