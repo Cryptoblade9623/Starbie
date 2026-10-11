@@ -1,4 +1,4 @@
-| Starbie |
+* Starbie
 Motion and button controlled pet with an OLED display, humidity and temperature sensor and motion sensor.
 It is controlled by an ESP32 C3 Supermini.
 This is a guide, by SharKing Studios from Half-Life.
@@ -16,7 +16,9 @@ This is a guide, by SharKing Studios from Half-Life.
 7. You can also add some small stickers onto the tips of the corners or on the back if you have them, but this is completely optional.
 And you're done!
 
+
 | Bill of Materials |
+
 | PART               | PURPOSE                                                                 | QTY | PRICE | TOTAL | VENDOR |
 
 | ESP32 C3 Supermini | Control the screen and take inputs from the other parts.                |  1  | $3.05 | $3.05 | [AliExpress](https://www.aliexpress.com/item/1005007869446657.html?spm=a2g0o.productlist.main.11.206e1bcdmjCEWO&algo_pvid=0b73490b-3db1-475a-b949-48b70c4bc669&algo_exp_id=0b73490b-3db1-475a-b949-48b70c4bc669-10&pdp_ext_f=%7B%22order%22%3A%22625%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.05%211.35%21%21%213.05%211.35%21%4021038a9c17917201267658074e0e1e%2112000042625562850%21sea%21GB%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad6cd2d24%3Bm03_new_user%3A-29895%3BpisId%3A5000000218643706&curPageLogUid=5fYpmBZWpQCx&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007869446657%7C_p_origin_prod%3A) |
