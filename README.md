@@ -10,6 +10,7 @@ The files include the KiCad files, gerbers, drill files, firmware - which you wi
 
 <img width="788" height="832" alt="image" src="https://github.com/user-attachments/assets/f23978a5-991a-48a4-b627-c8c1127258c9" />
 
+
 | Instructions |
 1. Solder the 10K ohm resistor onto the top left corner of the board.
 2. Solder the MPU6050 onto the middle area of the board with pinheaders.
@@ -20,6 +21,7 @@ The files include the KiCad files, gerbers, drill files, firmware - which you wi
 7. You can also add some small stickers onto the tips of the corners or on the back if you have them, but this is completely optional.
 
 And you're done!
+
 
 
 | Bill of Materials |
