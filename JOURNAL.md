@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv2o9tb106lm01q3dbpmx4u5). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> Motion and button controlled pet with an OLED display, humidity and temperature sensor and motion sensor. It is controlled by an ESP32 C3 Supermini. This is a guide, by SharKing Studios from Half-Life. To differ from the original guide, I have made my own personal sprite creation to show on the OLED display.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
