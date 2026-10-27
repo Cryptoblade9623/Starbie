@@ -17,7 +17,7 @@
 1. [2026-10-11: I started following the tutorial for the starbie, placing the ESP32, DHT11, MPU6050, pinheaders and switches.](#2026-10-11-i-started-following-the-tutorial-for-the-starbie-)
 2. [2026-10-11: First I downloaded a bunch of images based on the project theme like the half - life logo and some shooting stars. Then converted and downloaded them as KiCad footprints. This took quite a lot of trie](#2026-10-11-first-i-downloaded-a-bunch-of-images-based-on-the)
 3. [2026-10-11: First I started by drawing my personal sprite in pixilart.com and exporting it. Then I ran it through a converter so that it would be in the matrix format needed to paste it into the Arduino IDE. I wa](#2026-10-11-first-i-started-by-drawing-my-personal-sprite-in-)
-4. [2026-10-11: Work session](#2026-10-11-work-session)
+4. [2026-10-11: First I tried to get a basic understanding of the existing code so that it would be somewhat easier to edit the code later. Then I tried changing the fullness to anger  instead as I thought it would b](#2026-10-11-first-i-tried-to-get-a-basic-understanding-of-the)
 5. [2026-10-11: I forgot to time lapse this but I also tried to makes some changes to the PCB like rotating the OLED to the correct orientation because everything would be upside down if I didn't and kept the origina](#2026-10-11-i-forgot-to-time-lapse-this-but-i-also-tried-to-m)
 6. [2026-10-22: Fixed the problems in the repo. Exported the gerber and drill files and uploaded the gerber ZIP file. Tried doing the BOM again by hand that didn't work so I asked in Slack and someone told me about a](#2026-10-22-fixed-the-problems-in-the-repo-exported-the-gerbe)
 
@@ -48,9 +48,11 @@ First I started by drawing my personal sprite in pixilart.com and exporting it. 
 
 [Timelapse](https://lookout.hackclub.com/api/media/7e7bfa93-7af8-4165-aace-41011f129e0b/video.mp4)
 
-### 2026-10-11: Work session
+### 2026-10-11: First I tried to get a basic understanding of the existing code so that it would be somewhat easier to edit the code later. Then I tried changing the fullness to anger  instead as I thought it would b
 
 **2.05h**
+
+First I tried to get a basic understanding of the existing code so that it would be somewhat easier to edit the code later. Then I tried changing the fullness to anger  instead as I thought it would be more interesting but when I ran the code, it resulted in lots of errors so I reset all the changes I made and followed the guide, and in the trail, pasting in my sprite matrix, and modifying one of the four options in the screen. Then I started making the repo. I wrote a basic introduction to the project, added some images, wrote instructed and made the BOM while also finalizing the rest of the parts for the starbie. I then exported the gerbers and used them to get a quote for the PCB and finish the pricing. I then uploaded all the existing files, added some more lines to the readme and made another BOM in excel and uploaded it as a CSV file to the repository.
 
 [Timelapse](https://lookout.hackclub.com/api/media/2d222ef3-7eea-4153-8366-ac33ceeaf447/video.mp4)
 
