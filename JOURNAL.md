@@ -16,7 +16,7 @@
 
 1. [2026-10-11: I started following the tutorial for the starbie, placing the ESP32, DHT11, MPU6050, pinheaders and switches.](#2026-10-11-i-started-following-the-tutorial-for-the-starbie-)
 2. [2026-10-11: First I downloaded a bunch of images based on the project theme like the half - life logo and some shooting stars. Then converted and downloaded them as KiCad footprints. This took quite a lot of trie](#2026-10-11-first-i-downloaded-a-bunch-of-images-based-on-the)
-3. [2026-10-11: Work session](#2026-10-11-work-session)
+3. [2026-10-11: First I started by drawing my personal sprite in pixilart.com and exporting it. Then I ran it through a converter so that it would be in the matrix format needed to paste it into the Arduino IDE. I wa](#2026-10-11-first-i-started-by-drawing-my-personal-sprite-in-)
 4. [2026-10-11: Work session](#2026-10-11-work-session)
 5. [2026-10-11: I forgot to time lapse this but I also tried to makes some changes to the PCB like rotating the OLED to the correct orientation because everything would be upside down if I didn't and kept the origina](#2026-10-11-i-forgot-to-time-lapse-this-but-i-also-tried-to-m)
 6. [2026-10-22: Fixed the problems in the repo. Exported the gerber and drill files and uploaded the gerber ZIP file. Tried doing the BOM again by hand that didn't work so I asked in Slack and someone told me about a](#2026-10-22-fixed-the-problems-in-the-repo-exported-the-gerbe)
@@ -40,9 +40,11 @@ First I downloaded a bunch of images based on the project theme like the half - 
 
 [Timelapse](https://lookout.hackclub.com/api/media/4eb62287-9ae6-45fa-9695-06b459493912/video.mp4)
 
-### 2026-10-11: Work session
+### 2026-10-11: First I started by drawing my personal sprite in pixilart.com and exporting it. Then I ran it through a converter so that it would be in the matrix format needed to paste it into the Arduino IDE. I wa
 
 **0.68h**
+
+First I started by drawing my personal sprite in pixilart.com and exporting it. Then I ran it through a converter so that it would be in the matrix format needed to paste it into the Arduino IDE. I was also AFK for the last 10 minutes of the timelapse for reasons I cannot remember.
 
 [Timelapse](https://lookout.hackclub.com/api/media/7e7bfa93-7af8-4165-aace-41011f129e0b/video.mp4)
 
