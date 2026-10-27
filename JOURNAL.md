@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.76h | 6 |
+| Week 1 | Tier 1 | 6.76h | 6 |
 
 ## Contents
 
@@ -34,7 +34,7 @@ I then placed all the power symbols like GND, +3V3, +5V. I then added the netlab
 
 ### 2026-10-11: First I downloaded a bunch of images based on the project theme like the half - life logo and some shooting stars. Then converted and downloaded them as KiCad footprints. This took quite a lot of trie
 
-**1.05h**
+**2.05h**
 
 First I downloaded a bunch of images based on the project theme like the half - life logo and some shooting stars. Then converted and downloaded them as KiCad footprints. This took quite a lot of tries as they were either to big or too small for the board. Then I installed the Arduino IDE and sorted out some of the parts for the BOM while keeping the cost as low ass possible. I then installed all the required libraries in the IDE based off the project guide. Lastly I tweaked some of the the routing and connections in KiCad for the MCU.
 
